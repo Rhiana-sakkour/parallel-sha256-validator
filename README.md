@@ -27,8 +27,9 @@ It doubles as a controlled benchmark harness for studying multithreading behavio
 ├── password-auditor/                  The Java project 
 │   └── src/com/hiast/passwordauditor/  Source code
 ├── benchmark_results.csv              Exported benchmark data (N=1,2,4,8,16)
-├── report.docx              Full technical report: architecture, benchmarks, Amdahl's Law analysis
-└── README.md                          This file
+├── privacy report.csv
+├── Report.pdf              Full technical report: architecture, benchmarks, Amdahl's Law analysis
+└── README.md This file
 > All build and run commands below assume you start from the repository root and cd into password-auditor/ first.
 
 ### Source structure
